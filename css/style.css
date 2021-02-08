@@ -98,7 +98,7 @@ body {
 
 @-webkit-keyframes show {
   0% {
-    transform: translate(0, 1rem);
+    transform: translate(0, 100rem);
   }
   100% {
     transition: 1s;
